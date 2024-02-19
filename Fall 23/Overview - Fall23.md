@@ -8,7 +8,8 @@ Other Relevant Coursework
 * GT6000: Grad Orientation
 
 # Project Work
-1)  Systolic Array using Verilog and automated simulation via Python - [Github](https://github.com/NikPrav/SystolicArray4x4)
+1) Systolic Array using Verilog and automated simulation via Python - [Github](https://github.com/NikPrav/SystolicArray4x4)
+2) Deductive Fault Simulator and PODEM, written in C++ using vectors and lists - [Github](https://github.com/NikPrav/FaultSimulator)
 3) Code generation via LLMs - exploration
 4) LLM exploration - Architecture
 # Learnings
