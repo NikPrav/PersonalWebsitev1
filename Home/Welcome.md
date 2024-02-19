@@ -1,0 +1,1 @@
+This is a blog/website that i've been meaning to create for ages. Treat this as a way to just put out whatever I'm learning throughout my time in college and in industry, just in case I forget that I learnt something :p
