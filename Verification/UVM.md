@@ -16,7 +16,9 @@ A UVM environment can be structured as follows:
 
 All of the above blocks are modelled as objects derived from existing classes from the UVM library, which is given below:
 ![[Pasted image 20231227114955.png]]
-All of the above classes have simulation phases, which are ordered step of execution implemented as methods. 
+All of the above classes have simulation phases, which are ordered step of execution implemented as methods.
+### Phases in UVM
+![[Pasted image 20240310135048.png]]
 ![[Pasted image 20231227115045.png]]
 * **Build Phase:** Constructs components of hierarchy. eg: initialisation and construction of classes for different parts
 * **Connect Phase:** Connects the different sub-components of a class

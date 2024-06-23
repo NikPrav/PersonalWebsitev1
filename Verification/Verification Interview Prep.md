@@ -1,0 +1,14 @@
+- Revise UVM
+	- phases - [[UVM#Phases in UVM]]
+	- levels - [[UVM#The parts of UVM]]
+	- Assertions
+	- Constraints
+	- ~~Shallow copy and Deep Copy~~
+- Memory Buses
+	- ~~Fibonacci Series~~
+	- State Machine
+	- ~~Cache Coherence~~
+	- State Transition Diagrams
+	- ~~Snoop and Directory Based Protocols~~
+	- ~~Layers in TB architecture~~
+- Out-of-order execution

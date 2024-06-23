@@ -1,0 +1,1 @@
+Contains all the rough notes i've made in class
