@@ -3,6 +3,7 @@ This is a blog/website that i've been meaning to create for ages. Treat this as 
 # Topics
 To get an overview of what I've learnt in college, go to 
 - [[Overview - Fall23|Overview - Fall23]]
+- [[Overview - Spring 24]]
 
 I have recently been exploring Verification, so as to find methods for automating it. My exploration on Verification has been detailed out in [[Overview - Verification]]
 
